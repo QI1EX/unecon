@@ -5,6 +5,6 @@
 
 | № | Название и ссылка | Навыки и инструменты |
 |:--|:------------------|:----------------------|
-| 1. | [Анализ данных](data_analysis) | **Языки:** Python, SQL<br>**Библиотеки:** Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, XGBoost<br>**Визуализация:** Matplotlib, Plotly, Seaborn, Tableau<br>**Методы:** Юнит-экономика, когортный анализ, A/B-тестирование, работа с гипотезами, машинное обучение |
-| 2. | [Методы машинного обучения](machine_learning) |  |
-| 3. | [Эконометрика](econometrics) |  |
+| 1. | [Анализ данных](data_analysis/) | **Языки:** Python, SQL<br>**Библиотеки:** Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, XGBoost<br>**Визуализация:** Matplotlib, Plotly, Seaborn, Tableau<br>**Методы:** Юнит-экономика, когортный анализ, A/B-тестирование, работа с гипотезами, машинное обучение |
+| 2. | [Методы машинного обучения](machine_learning/) |  |
+| 3. | [Эконометрика](econometrics/) |  |
