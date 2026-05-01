@@ -1,7 +1,7 @@
 # Анализ данных
 
 ## Основные инструменты и навыки, полученные при обучении:
-- Языки: Python, SQL
+- Языки: Python, SQL (PostgreSQL, sqlite3)
 - Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
 - Визуализация: Matplotlib, Plotly, Seaborn
 - А/В-тестирование
