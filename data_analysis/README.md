@@ -4,8 +4,6 @@
 - Языки: Python, SQL
 - Анализ данных: библиотеки Pandas, NumPy, SciPy, Statsmodels
 - Визуализация: Matplotlib, Plotly, Seaborn
-- Построение дашбордов: Tableau
-- Метрики юнит-экономики, когортный анализ
 - А/В-тестирование
 - Работа с гипотезами
 - Машинное обучение: Scikit-learn
